@@ -1,0 +1,9 @@
+[submodule "Epicure-Client"]
+	path = Epicure-Client
+	url = https://github.com/AdamOliver1/Epicure-Client.git
+[submodule "EpicureBackend"]
+	path = EpicureBackend
+	url = https://github.com/AdamOliver1/EpicureBackend.git
+[submodule "EpicureAdmin"]
+	path = EpicureAdmin
+	url = https://github.com/AdamOliver1/EpicureAdmin.git
